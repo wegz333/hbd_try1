@@ -198,8 +198,8 @@
   left: 30%;
   transform: scale(0.8);
   opacity: 1;
-  -webkit-animation: slideUp 7s linear 1, sideSway 2s ease-in-out 6 alternate;
-  -moz-animation: slideUp 7s linear 1, sideSway 2s ease-in-out 6 alternate;
+  -webkit-animation: slideUp 4s linear 1, sideSway 3s ease-in-out 2 alternate;
+  -moz-animation: slideUp 4s linear 1, sideSway 3s ease-in-out 2 alternate;
   -webkit-animation-fill-mode: forwards;
   animation-fill-mode: forwards;
   -webkit-animation-delay: 0.7s;
@@ -210,8 +210,8 @@
   left: 60%;
   transform: scale(0.8);
   opacity: 1;
-  -webkit-animation: slideUp 7s linear 1, sideSway 2s ease-in-out 6 alternate;
-  -moz-animation: slideUp 7s linear 1, sideSway 2s ease-in-out 6 alternate;
+  -webkit-animation: slideUp 5s linear 1, sideSway 3.5s ease-in-out 2 alternate;
+  -moz-animation: slideUp 5s linear 1, sideSway 3.5s ease-in-out 2 alternate;
   -webkit-animation-fill-mode: forwards;
   animation-fill-mode: forwards;
   -webkit-animation-delay: 0.7s;
@@ -222,25 +222,14 @@
   left: 15%;
   transform: scale(0.8);
   opacity: 1;
-  -webkit-animation: slideUp 7s linear 1, sideSway 2s ease-in-out 6 alternate;
-  -moz-animation: slideUp 7s linear 1, sideSway 2s ease-in-out 6 alternate;
+  -webkit-animation: slideUp 6s linear 1, sideSway 4s ease-in-out 3 alternate;
+  -moz-animation: slideUp 6s linear 1, sideSway 4s ease-in-out 3 alternate;
   -webkit-animation-fill-mode: forwards;
   animation-fill-mode: forwards;
   -webkit-animation-delay: 0.7s;
   animation-delay: 0.7s;
 }
 
-.a7 {
-  left: 5%;
-  transform: scale(0.8);
-  opacity: 1;
-  -webkit-animation: slideUp 7s linear 1, sideSway 2s ease-in-out 6 alternate;
-  -moz-animation: slideUp 7s linear 1, sideSway 2s ease-in-out 6 alternate;
-  -webkit-animation-fill-mode: forwards;
-  animation-fill-mode: forwards;
-  -webkit-animation-delay: 0.7s;
-  animation-delay: 0.7s;
-}
 
 @-webkit-keyframes slideUp {
   0% {
